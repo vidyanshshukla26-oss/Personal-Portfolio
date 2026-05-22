@@ -89,8 +89,8 @@ portfolio/
 I'm always open to new opportunities, collaborations, or just a good tech conversation.
  
 - 🌐 Portfolio: [your-portfolio-url.com](https://your-portfolio-url.com)
-- 💼 LinkedIn: [linkedin.com/in/vidyansh-shukla](https://linkedin.com/in/vidyansh-shukla)
-- 🐙 GitHub: [@vidyansh07](https://github.com/vidyansh07)
+- 💼 LinkedIn: [linkedin.com/in/vidyansh-shukla](www.linkedin.com/in/vidyansh-shukla-595a46375)
+- 🐙 GitHub: [@vidyansh07]([https://github.com/vidyansh0](https://github.com/vidyanshshukla26-oss))
 - 📧 Email: shuklavidyansh26@gmail.com
 ---
  
