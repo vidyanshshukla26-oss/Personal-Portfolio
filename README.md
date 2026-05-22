@@ -1,6 +1,6 @@
 <div align="center">
 🚀 Vidyansh Shukla — Portfolio
-A modern, AI-powered personal portfolio built with React, TypeScript, and Gemini AI
+A modern, AI-powered personal portfolio built with React, TypeScript
 Show Image
 Show Image
 Show Image
