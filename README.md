@@ -10,8 +10,6 @@ Show Image
 
 ✨ Features
 
-⚡ Blazing Fast — Powered by Vite 6 with Hot Module Replacement
-🤖 AI-Integrated — Uses Google Gemini AI for intelligent interactions
 🎨 Modern UI — Sleek animations with Motion and Tailwind CSS v4
 📱 Fully Responsive — Looks great on all screen sizes
 🔒 Type-Safe — Written in TypeScript throughout
