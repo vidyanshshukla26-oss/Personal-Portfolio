@@ -17,6 +17,9 @@
 This is my personal engineering portfolio — a place to showcase who I am, what I've built, and the work I'm proud of. I built it from scratch using a modern React + TypeScript stack, integrated Google Gemini AI, and kept everything fast and responsive with Vite and Tailwind CSS v4.
  
 ---
+
+<img width="1896" height="1102" alt="Screenshot 2026-05-28 002908" src="https://github.com/user-attachments/assets/b1cd8108-ca30-423a-baa4-52cf89aeebe3" />
+
  
 ## 🔧 Built With
  
