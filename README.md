@@ -91,13 +91,13 @@ portfolio/
  
 I'm always open to new opportunities, collaborations, or just a good tech conversation.
  
-- 🌐 Portfolio: [your-portfolio-url.com](https://your-portfolio-url.com)
+- 🌐 Portfolio: [http://localhost:3000](http://localhost:3000)
 - 💼 LinkedIn: [linkedin.com/in/vidyansh-shukla](www.linkedin.com/in/vidyansh-shukla-595a46375)
-- 🐙 GitHub: [@vidyansh07]([https://github.com/vidyansh0](https://github.com/vidyanshshukla26-oss))
+- 🐙 GitHub: [vidyanshshukla26-oss]([https://github.com/vidyansh0](https://github.com/vidyanshshukla26-oss))
 - 📧 Email: shuklavidyansh26@gmail.com
 ---
  
 <div align="center">
-  Designed & built by <strong>Vidyansh Shukla</strong> &nbsp;·&nbsp; 2025
+  Designed & built by <strong>Vidyansh Shukla</strong> &nbsp;·&nbsp; 2026
 </div>
  
