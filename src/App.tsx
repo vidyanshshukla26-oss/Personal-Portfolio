@@ -54,7 +54,7 @@ export default function App() {
       icon: <Layout className="w-5 h-5 text-emerald-600" />,
       skills: [
         { name: "React.js", level: "Intermediate" },
-        { name: "Tailwind CSS", level: "Advanced" },
+        { name: "Tailwind CSS", level: "Intermediate" },
         { name: "HTML5 / CSS3", level: "Proficient" }
       ]
     },
