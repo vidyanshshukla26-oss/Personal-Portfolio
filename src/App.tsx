@@ -35,7 +35,7 @@ export default function App() {
       icon: <Terminal className="w-5 h-5 text-blue-600" />,
       skills: [
         { name: "Java", level: "Proficient" },
-        { name: "JavaScript (ES6+)", level: "Proficient" },
+        { name: "JavaScript (ES6+)", level: "Intermediate" },
         { name: "C", level: "Proficient" },
         { name: "Python", level: "Proficient" }
       ]
