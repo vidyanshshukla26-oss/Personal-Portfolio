@@ -81,10 +81,10 @@ export default function App() {
 
   const projects = [
     {
-      title: "Spotify Clone",
-      type: "Music Streaming Web Application",
-      description: "A full-stack music streaming platform built with Node.js, Express, and MongoDB. Features user authentication, playlist management, and seamless audio playback.",
-      tech: ["Node.js", "Express.js", "MongoDB", "REST API"],
+      title: "Crowdsourcing Platform(Jan-Setu)",
+      type: "Full-Stack Web Application",
+      description: "A full-stack social impact web app built with React, Express, and Node.js. Connects volunteers with NGOs featuring task management workflows, event tracking, and community engagement tools.",
+      tech: ["React 19", "TypeScript", "Node.js", "Express", "Tailwind CSS", "Google Gemini API", "REST API"],
     },
     {
       title: "Decentralized News Platform",
