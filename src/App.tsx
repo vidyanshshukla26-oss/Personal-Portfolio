@@ -55,7 +55,7 @@ export default function App() {
       skills: [
         { name: "React.js", level: "Intermediate" },
         { name: "Tailwind CSS", level: "Advanced" },
-        { name: "HTML5 / CSS3", level: "Advanced" }
+        { name: "HTML5 / CSS3", level: "Proficient" }
       ]
     },
     {
