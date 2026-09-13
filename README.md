@@ -93,7 +93,7 @@ I'm always open to new opportunities, collaborations, or just a good tech conver
  
 - 🌐 Portfolio: [https://vidyanshshukla.netlify.app/](https://vidyanshshukla.netlify.app/)
 - 💼 LinkedIn: [linkedin.com/in/vidyansh-shukla](www.linkedin.com/in/vidyansh-shukla-595a46375)
-- 🐙 GitHub: [vidyanshshukla26-oss]([https://github.com/vidyansh0](https://github.com/vidyanshshukla26-oss))
+- 🐙 GitHub: [https://github.com/vidyanshshukla26-oss]([https://github.com/vidyansh0](https://github.com/vidyanshshukla26-oss))
 - 📧 Email: shuklavidyansh26@gmail.com
 ---
  
