@@ -22,8 +22,8 @@ This is my personal engineering portfolio — a place to showcase who I am, what
 ## Preview
 
 <!-- Replace this with a real screenshot committed to the repo, e.g. ./public/preview.png -->
-![Portfolio preview](<img width="1896" height="1102" alt="Screenshot 2026-05-28 002908" src="https://github.com/user-attachments/assets/6dfb003e-5946-4cdd-a625-552a5a402cea" />
-)
+<img width="1896" height="1102" alt="Screenshot 2026-05-28 002908" src="https://github.com/user-attachments/assets/6dfb003e-5946-4cdd-a625-552a5a402cea" />
+
 
 ---
 
