@@ -4,6 +4,7 @@
  */
 
 import { motion } from "motion/react";
+import profilePicture from "../Picture.jpeg";
 import { 
   Github, 
   Mail, 
@@ -213,7 +214,7 @@ export default function App() {
               
               <div className="w-full h-full rounded-[2.5rem] overflow-hidden border-8 border-white shadow-2xl shadow-slate-200">
                 <img 
-                  src="Picture.jpeg" 
+                  src={profilePicture}
                   alt="Vidyansh Shukla"
                   className="w-full h-full object-cover grayscale brightness-110 hover:grayscale-0 transition-all duration-1000"
                 />
@@ -474,4 +475,3 @@ export default function App() {
     </div>
   );
 }
-
