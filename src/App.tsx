@@ -104,7 +104,7 @@ export default function App() {
     {
       role: "Open Source Contributor",
       company: "Girlscript Summer of Code (GSSoC)",
-      period: "April 2026 – August 2026",
+      period: "April 2026 – September 2026",
       highlights: [
         "Contributed to open-source projects by fixing bugs, enhancing documentation, and implementing new features.",
 
@@ -117,7 +117,7 @@ export default function App() {
     {
       role: "AI Frontend Intern",
       company: "Flyrank AI",
-      period: "July 2026 – October 2026",
+      period: "July 2026 – September 2026",
       highlights: [
         "Developed responsive user interfaces using React.js, TypeScript, and modern JavaScript frameworks",
 
